@@ -1,6 +1,6 @@
 flask
 gunicorn
-tensorflow
+tensorflow-cpu==2.16.1
 pandas
 numpy
 requests
