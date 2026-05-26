@@ -1,0 +1,9 @@
+flask
+gunicorn
+tensorflow
+pandas
+numpy
+requests
+beautifulsoup4
+scikit-learn
+lxml
